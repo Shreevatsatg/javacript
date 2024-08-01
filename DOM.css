@@ -1,0 +1,19 @@
+.heading{
+    color:aqua;
+    text-decoration:line-through
+}
+h2{
+    color: rgb(236, 229, 242);
+}
+body{
+    background-color: rgb(117, 74, 74);
+}
+button{
+    background-color: rgb(26, 26, 24);
+    color: azure;
+}
+p{
+    color: beige;
+}
+
+
