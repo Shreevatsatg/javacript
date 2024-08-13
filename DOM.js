@@ -15,5 +15,16 @@
 // console.dir(h2.innertext);
 // h2.innertext = h2.innertext+"from shreevatsa tg";//added two string
 
+// let div = document.qurrySelector("div");
+// div.style.backgroundColor ="red";
+// div.style.backgroundColor ="green";
 
+// let newbtn = document.createElement("button");
+// newbtn.innerText ="click me!";
+// newbtn.style.backgroundColor ="red";
+// newbtn.style.color ="white";
+// document.querySelector("body").prepend(newbtn); //added a new button only by useing java script
+
+//second quesion
+let para=document.querySelector("p");
 

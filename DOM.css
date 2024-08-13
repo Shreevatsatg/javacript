@@ -6,7 +6,7 @@ h2{
     color: rgb(236, 229, 242);
 }
 body{
-    background-color: rgb(117, 74, 74);
+    background-color: rgb(238, 226, 226);
 }
 button{
     background-color: rgb(26, 26, 24);
@@ -19,6 +19,12 @@ p{
     height: 100x;
     background-color: rgb(214, 112, 112);
 
+}
+.content{
+    color:red;
+}
+.newclass{
+    background-color: green;
 }
 
 
